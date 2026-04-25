@@ -17,4 +17,38 @@ Visuals to Include :  Bar chart: Sales by Category
                       Pie chart: Category contribution %
                       Table: Top 5 Products by Sales
                       Decline analysis: Q3/Q4 breakdown
+
+# Sales_dashboard.html
+Sales Intelligence Dashboard
+An interactive Sales Analytics Dashboard built with HTML, CSS, and Chart.js — visualizing 4,162 transactions across 3 years of business data.
+🔗 Live Demo
+
+Dashboard Preview
+
+Dark-themed, fully interactive dashboard with real business KPIs, trend analysis, and product performance tracking.
+
+Key Insights Surfaced
+1)₹4.86 Cr total revenue across Jan 2022 – Jun 2024 with consistent ~17.5% profit margin
+2)Technology leads category revenue at ₹1.86 Cr (38.3%) with highest absolute profit
+3)South region is top market at ₹1.28 Cr — but all 4 regions are within 10% of each other (balanced diversification)
+4)Monitor & Keyboard are top 2 SKUs — together driving ~25% of total revenue
+5)Seasonal revenue spikes visible in Aug–Sep and Mar — useful for campaign planning
+
+Charts & Visuals Included 
+Visual                                          Insight
+Monthly revenue trend(30-month line).           Seasonality & growth tarcking.
+Region Distribution(Doughnut).                  Geographics revenue split.
+Category Breakdown (Doughnut).                  Tech vs Furniture vs Office supplies.
+Customer Segment(Doughnut).                     Consumer / Corporate / Home Office.
+Revenue vs Profit by Category(Bar).             Profitability Comparison.
+Top 8 Products(Bar)                             Revenue + Profit Per SKU (stock keeping unit).
+Product Leaderboard (Table)                     Ranked with mini prgress bars.
+Business Intelligence Insights (cards)          6 auto-generated text insights
+
+
+Dataset Overview
+1)4,162 transactions analyzed
+2)Time period: January 2022 – June 2024
+3)Dimensions: Region (4), Category (3), Customer Segment (3), Product (8+)
+4)Metrics: Revenue, Profit, Orders, Margin %, Avg Order Value
                  
